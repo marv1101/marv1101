@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marv1101
-- 👀 I’m interested in Software Engineering, Cloud computing and AI
+- 👀 I’m interested in Software Engineering, Cloud computing and full stack development
 - 🌱 I’m currently learning the basics of computer science
 
 <!---
