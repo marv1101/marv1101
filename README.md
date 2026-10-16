@@ -16,7 +16,7 @@ My main interests are distributed systems, workflow orchestration and practical 
 
 ### MVIT PlanBar
 
-A web-based shift planning application with automated schedule optimization using a worker structure and social features for employees.
+A web-based shift planning application with constraint-based schedule optimization using a worker structure for async job processing and social features for employees like a blackboard using websockets and shift swapping functionality.
 The project brings together API development, persistent data models, service integration, async job processing and agentic engineering.
 Why agentic engineering? I used my self hosted agent "Orion" as a co-developer. The agent was tasked with finding security issues, implementing some features and reviewing my changes.
 Orion uses open weight models hosted in the cloud or in some cases on one of my systems (but that only for small tasks because of vram limitations).
