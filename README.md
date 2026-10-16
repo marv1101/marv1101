@@ -55,6 +55,7 @@ This project was developed with a self hosted gitlab instance but later migrated
 Found something interesting? Visit my other socials or my website and lets get in contact.
 
 [LinkedIn](https://www.linkedin.com/in/marian-voigtl%C3%A4nder-411907393/)
+
 [My Website](https://mphion.de)
 
 
