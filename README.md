@@ -2,8 +2,8 @@
 
 ## Software Developer - Backend Engineering
 
-I'm a software developer focused on backend engineering. I enjoy turning real-world business processes and requirements into structured APIs, data models and web services.
-My main interests are distributed systems, workflow orchestration and practical ways to use AI agents in my software development workflow. 
+I'm a software developer focused on full-stack engineering. I enjoy turning real-world business processes and requirements into structured APIs, data models and web services.
+My main interests are distributed systems, workflow orchestration and practical ways to use AI agents in my software development workflow and real-world applications. 
 
 - Education: B.Sc in Computer Science, M.Sc in progress
 - Backend: Java, Jakarta EE; Python, FastAPI, Flask; Typescript, express
