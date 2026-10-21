@@ -1,15 +1,18 @@
 # Hi, I'm Marian 👋
 
-## Software Developer - Backend Engineering
+Software Engineer | Backend Systems, Integration & Solution Engineering
 
-I'm a software developer focused on full-stack engineering. I enjoy turning real-world business processes and requirements into structured APIs, data models and web services.
-My main interests are distributed systems, workflow orchestration and practical ways to use AI agents in my software development workflow and real-world applications. 
+I'm a software developer with a background in enterprise IT and business process automation. I enjoy turning real-world business requirements into reliable software solutions — from designing APIs and data models to implementing backend services and integrating existing systems.
 
+Through my professional experience in IT process automation and my personal software projects, I've developed a particular interest in the intersection of software engineering, system integration and solution architecture.
+
+I enjoy both understanding the problem behind a technical requirement and architecting and building solutions.
 - Education: B.Sc in Computer Science, M.Sc in progress
+- Professional Background: Enterprise IT, business process automation and application integration
 - Backend: Java, Jakarta EE; Python, FastAPI, Flask; Typescript, express
 - Databases: PostgreSQL, relational database design; influxDB - timeseries database
-- Engineering: Automated testing, Docker, CI/CD
-- Interests: Distributed systems, workflow orchestration, agentic engineering, software operations
+- Engineering: Automated testing, Docker, CI/CD, REST APIs, asynchronous processing
+- Interests: Distributed systems, workflow orchestration, agentic engineering, software operations, distributed data processing (eg. Apache Spark)
 - Based in Germany
 
 ## Featured Project
