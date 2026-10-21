@@ -45,6 +45,17 @@ The website is styled like a modern company website and contains a blog using th
 
 If you are interested you can explore the project [here](https://github.com/marv1101/mvit-website)
 
+
+## What I'm Interested In
+
+I'm particularly interested in engineering roles that combine hands-on software development with technical solution design.
+
+Areas I want to develop further include:
+- Backend and integration architectures
+- Technical consulting and solution engineering
+- Distributed services and reliable workflow execution
+- AI-powered applications and integration of LLMs into existing systems
+
 -----------------------------
 
 Found something interesting? Visit my other socials or my website and lets get in contact.
