@@ -45,14 +45,6 @@ The website is styled like a modern company website and contains a blog using th
 
 If you are interested you can explore the project [here](https://github.com/marv1101/mvit-website)
 
-### LoggiFin
-
-A simple finance tracking application with a user facing website, a backend for user handling, calculations and the database CRUD operations. It uses mysql for the database and is written in .net and C#.
-
-For more information visit [the github project page](https://github.com/marv1101/loggifin).
-
-This project was developed with a self hosted gitlab instance but later migrated to Github.
-
 -----------------------------
 
 Found something interesting? Visit my other socials or my website and lets get in contact.
